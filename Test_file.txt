@@ -1,2 +1,2 @@
  I love GIT
-And i want to learn it
+Добавляем еще какие то изменения
